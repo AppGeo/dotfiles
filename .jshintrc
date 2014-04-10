@@ -3,6 +3,7 @@
   //"browser" : true,
   
   "curly": true,
+  "latedef": "nofunc",
   "eqeqeq": true,
   "immed": true,
   "newcap": true,
