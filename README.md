@@ -33,6 +33,8 @@ project-root/
 * dist - processed/compiled client-side code (can be wiped and rebuilt)
 * test - unit/integration test source
 
+_Note: neither `node_modules` or `dist` should be uploaded to the projects repository._
+
 #### Library
 
 ```
@@ -55,6 +57,8 @@ project-root/
 * dist - processed/compiled library code (can be wiped and rebuilt)
 * test - unit/integration test source
 * index.js - entry point to library
+
+_Note: `node_modules` shouldn't be uploaded to the project's repository._
 
 [jshint]: http://www.jshint.com/
 [jshint-options]: http://www.jshint.com/docs/options/
