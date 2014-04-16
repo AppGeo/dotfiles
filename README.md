@@ -22,6 +22,7 @@ project-root/
 |_ test/
 |_ node_modules/
 |_ package.json
+|_ README.md
 |_ .gitignore
 |_ ..
 ```
@@ -43,6 +44,8 @@ project-root/
 |_ node_modules/
 |_ index.js
 |_ package.json
+|_ README.md
+|_ LICENSE.md
 |_ .gitignore
 |_ ..
 ```
