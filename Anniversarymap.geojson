@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7f2b1a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bus Pickup",
+        "time": "7:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75943112373352,
+          43.07781434508723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7f2b1a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bubby's Deli",
+        "time": "1:30",
+        "durration": "2.5 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76179146766661,
+          43.07667802329851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7f2b1a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Isle of Shoals Boat Cruise",
+        "time": "3:15",
+        "duration": "2.25 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76016068458556,
+          43.080322015157165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "beer",
+        "name": "Portsmouth Brewery",
+        "description": "local brewery, pub menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75787544250488,
+          43.07773597874382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "beer",
+        "name": "RiRa",
+        "description": "Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75736045837401,
+          43.07703067714318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "restaurant",
+        "name": "Flatbread",
+        "description": "Wood Fired Pizza, good beer list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76025724411011,
+          43.075862993314395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "beer",
+        "name": "Thirsty Moose Taphouse",
+        "description": "116 beers on tap, bar  food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75876593589783,
+          43.07674071746367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "beer",
+        "name": "The Press Room",
+        "description": "beer, basic bar food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75618028640747,
+          43.077344145523476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "restaurant",
+        "name": "The Rosa",
+        "description": "Italian restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75422763824463,
+          43.07710904438859
+        ]
+      }
+    }
+  ]
+}
